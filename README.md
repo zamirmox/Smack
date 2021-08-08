@@ -1,0 +1,2 @@
+# Smack
+Kotlin Chat project
